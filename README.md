@@ -5,10 +5,10 @@
 Me chamo Daniel Daniel Reis, sou desenvolvedor.
 Tenho afinidade maior com as seguintes linguagens:
 
-* PHP
 * NodeJs
 * Javascript
 * HTML
+* Angular
 
 Mas estou sempre a procura de novos conhecimentos! 😄
 
@@ -19,10 +19,10 @@ Mas estou sempre a procura de novos conhecimentos! 😄
 My name is Daniel Reis, I'm a developer.
 I have a greater affinity with the following languages:
 
-* PHP
 * NodeJs
 * Javascript
 * HTML
+* Angular
 
 But I am always looking for new knowledge! 😄
 
