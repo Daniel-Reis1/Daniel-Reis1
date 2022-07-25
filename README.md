@@ -2,7 +2,7 @@
 
 ### Opa, bem-vindo ao meu perfil!
 
-Me chamo Daniel Daniel Reis, sou desenvolvedor.
+Me chamo Daniel Reis, sou desenvolvedor.
 Tenho afinidade maior com as seguintes linguagens:
 
 * NodeJs
